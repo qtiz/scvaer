@@ -16,3 +16,7 @@ SELECT * FROM users; Показывает пользователей
 SELECT * FROM grades; Показыает все оценки
 
 SEKECT * FROM users,grades WHERE users.user_id=grades.user_id -Кто получил оценки
+
+$$S=U\cdot t$$
+
+$$\frac{1}{R_{общ}}=\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_n}$$
