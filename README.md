@@ -17,8 +17,8 @@ SELECT * FROM grades; Показыает все оценки
 
 SEKECT * FROM users,grades WHERE users.user_id=grades.user_id -Кто получил оценки
 
-$$S=U\cdot t$$
+$$\cos^{2}+\sin^{2}=1$$
 
-$$\frac{1}{R_{общ}}=\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_n}$$
+$$\\ln\grave{x}=\frac{1}{x}$$
 
 $$\overline{E}_1^2=\sqrt\frac{Fa^{x-1}}{(x-1)\cdot x}+a_1{}^{\frac{1}{2}}{}\+b_2{}^{\frac{2}{3}}{}\$$
