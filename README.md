@@ -21,4 +21,4 @@ $$S=U\cdot t$$
 
 $$\frac{1}{R_{общ}}=\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_n}$$
 
-$$\overline{E}_1^2=\sqrt\frac{Fa^{x-1}}{(x-1)\cdot x}+a_1{}^{\frac{1}{2}}{}\+b_2^{x^2\3}$$
+$$\overline{E}_1^2=\sqrt\frac{Fa^{x-1}}{(x-1)\cdot x}+a_1{}^{\frac{1}{2}}{}\+b_2{}^{\frac{1}{3}}{}\$$
