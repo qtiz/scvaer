@@ -28,9 +28,9 @@ $$\overline{E}_1^2=\sqrt\frac{Fa^{x-1}}{(x-1)\cdot x}+a_1{}^{\frac{1}{2}}{}\+b_2
 
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|Переводной экзамен| B(11 класс)
+B --> C{ЕГЭ}
+C -->|Плохо сдал| D[Завод]
+C -->|Хорошо сдал| E[Рублёвка]
 
 ```
